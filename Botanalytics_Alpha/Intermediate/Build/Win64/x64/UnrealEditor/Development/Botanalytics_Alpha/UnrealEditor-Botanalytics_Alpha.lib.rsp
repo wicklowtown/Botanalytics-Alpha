@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Botanalytics_Alpha.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\diarm\Desktop\Botanalytics\Botanalytics-Alpha\Botanalytics_Alpha\Intermediate\Build\Win64\x64\Botanalytics_AlphaEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"C:\Users\diarm\Desktop\Botanalytics\Botanalytics-Alpha\Botanalytics_Alpha\Intermediate\Build\Win64\x64\UnrealEditor\Development\Botanalytics_Alpha\Botanalytics_Alpha.cpp.obj"
+"C:\Users\diarm\Desktop\Botanalytics\Botanalytics-Alpha\Botanalytics_Alpha\Intermediate\Build\Win64\x64\UnrealEditor\Development\Botanalytics_Alpha\MyClass.cpp.obj"
+"C:\Users\diarm\Desktop\Botanalytics\Botanalytics-Alpha\Botanalytics_Alpha\Intermediate\Build\Win64\x64\UnrealEditor\Development\Botanalytics_Alpha\Default.rc2.res"
+/OUT:"C:\Users\diarm\Desktop\Botanalytics\Botanalytics-Alpha\Botanalytics_Alpha\Intermediate\Build\Win64\x64\UnrealEditor\Development\Botanalytics_Alpha\UnrealEditor-Botanalytics_Alpha.lib"

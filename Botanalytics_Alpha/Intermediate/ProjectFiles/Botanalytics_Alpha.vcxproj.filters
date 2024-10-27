@@ -11,7 +11,9 @@
     <None Include="..\..\Source\Botanalytics_AlphaEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <None Include="..\..\Session.log" />
+    <None Include="..\..\UpgradeLog.htm" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -46,6 +48,12 @@
       <Filter>Source\Botanalytics_Alpha</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\Botanalytics_Alpha\MyClass.h">
+      <Filter>Source\Botanalytics_Alpha</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Botanalytics_Alpha\UnitTests.cpp">
+      <Filter>Source\Botanalytics_Alpha</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Botanalytics_Alpha\UnitTests.h">
       <Filter>Source\Botanalytics_Alpha</Filter>
     </ClInclude>
   </ItemGroup>

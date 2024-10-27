@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\diarm\\desktop\\botanalytics\\botanalytics-alpha\\botanalytics_alpha\\source\\botanalytics_alpha\\myclass.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\diarm\\desktop\\botanalytics\\botanalytics-alpha\\botanalytics_alpha\\intermediate\\build\\win64\\x64\\botanalytics_alphaeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\diarm\\desktop\\botanalytics\\botanalytics-alpha\\botanalytics_alpha\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\botanalytics_alpha\\definitions.botanalytics_alpha.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
