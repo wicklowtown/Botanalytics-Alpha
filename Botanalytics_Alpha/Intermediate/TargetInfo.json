@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Botanalytics_Alpha",
+			"Path": "..\\Source\\Botanalytics_Alpha.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Botanalytics_AlphaEditor",
+			"Path": "..\\Source\\Botanalytics_AlphaEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
