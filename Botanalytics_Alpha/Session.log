@@ -1,0 +1,40 @@
+2024.10.27-02.59.07 [MSI-30732] 00083.719: LogNiagaraDebugger: Session selection changed. Dropping connections not from this session. | Session: 27462F075ACB4AFC800000000000AA00 ()
+2024.10.27-02.59.07 [MSI-30732] 00083.719: LogNiagaraDebugger: Establishing connection. | Session: 27462F075ACB4AFC800000000000AA00 | Instance: 5DE8323C405091F68E46BEB9ED7CB692 (MSI-30732).
+2024.10.27-02.59.07 [MSI-30732] 00083.959: LogNiagaraDebuggerClient: Connection request received and accepted. | Session: 27462F075ACB4AFC800000000000AA00 | Instance: 5DE8323C405091F68E46BEB9ED7CB692 (MSI-30732).
+2024.10.27-02.59.07 [MSI-30732] 00083.959: LogNiagaraDebugger: Connection accepted. | Session: 27462F075ACB4AFC800000000000AA00 | Instance: 5DE8323C405091F68E46BEB9ED7CB692 |
+2024.10.27-02.59.07 [MSI-30732] 00083.960: LogNiagaraDebugger: Sending updated debug HUD settings. | Session: 27462F075ACB4AFC800000000000AA00 | Instance: 5DE8323C405091F68E46BEB9ED7CB692 |
+2024.10.27-02.59.07 [MSI-30732] 00083.961: LogNiagaraDebugger: Received simple client info update. | Sender: D3328B1041562209466EA3870C4EE671 
+2024.10.27-02.59.07 [MSI-30732] 00083.961: LogNiagaraDebuggerClient: Received updated DebugHUD settings. | Session: 27462F075ACB4AFC800000000000AA00 | Instance: 5DE8323C405091F68E46BEB9ED7CB692 (MSI-30732).
+2024.10.27-02.59.07 [MSI-30732] 00083.961: Cmd: fx.Niagara.Debug.GlobalLoopTime 0.000
+2024.10.27-02.59.07 [MSI-30732] 00083.962: fx.Niagara.Debug.GlobalLoopTime = "0"
+2024.10.27-02.59.08 [MSI-30732] 00084.136: LogAutomationWorker: Received FindWorkersMessage from E10E8D9240A599F2174B1AA6AC198A29
+2024.10.27-02.59.08 [MSI-30732] 00084.136: LogAutomationController: Received FindWorkersResponseMessage from 7E2A8C9648E8C0411D5E1BA2A45B78DE
+2024.10.27-02.59.08 [MSI-30732] 00084.136: LogAutomationController: Requesting test list from 7E2A8C9648E8C0411D5E1BA2A45B78DE
+2024.10.27-02.59.11 [MSI-30732] 00084.187: LogAutomationWorker: Received RequestTestsMessage from E10E8D9240A599F2174B1AA6AC198A29
+2024.10.27-02.59.11 [MSI-30732] 00087.373: LogAutomationWorker: Set 4070 tests to E10E8D9240A599F2174B1AA6AC198A29
+2024.10.27-02.59.11 [MSI-30732] 00087.373: LogAutomationController: Received RequestTestsReplyCompleteMessage from 7E2A8C9648E8C0411D5E1BA2A45B78DE
+2024.10.27-02.59.11 [MSI-30732] 00087.382: LogAutomationController: 4070 tests available on 7E2A8C9648E8C0411D5E1BA2A45B78DE
+2024.10.27-02.59.50 [MSI-30732] 00126.103: LogAutomationController: Requesting test list from 7E2A8C9648E8C0411D5E1BA2A45B78DE
+2024.10.27-02.59.50 [MSI-30732] 00126.214: LogAutomationWorker: Received RequestTestsMessage from E10E8D9240A599F2174B1AA6AC198A29
+2024.10.27-02.59.50 [MSI-30732] 00126.413: LogAutomationWorker: Set 4071 tests to E10E8D9240A599F2174B1AA6AC198A29
+2024.10.27-02.59.50 [MSI-30732] 00126.413: LogAutomationController: Received RequestTestsReplyCompleteMessage from 7E2A8C9648E8C0411D5E1BA2A45B78DE
+2024.10.27-02.59.50 [MSI-30732] 00126.428: LogAutomationController: 4071 tests available on 7E2A8C9648E8C0411D5E1BA2A45B78DE
+2024.10.27-02.59.56 [MSI-30732] 00132.240: LogDerivedDataCache: C:/Users/diarm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+2024.10.27-03.00.47 [MSI-30732] 00183.603: LogAutomationController: Requesting test list from 7E2A8C9648E8C0411D5E1BA2A45B78DE
+2024.10.27-03.00.47 [MSI-30732] 00183.642: LogAutomationWorker: Received RequestTestsMessage from E10E8D9240A599F2174B1AA6AC198A29
+2024.10.27-03.00.47 [MSI-30732] 00183.752: LogAutomationWorker: Set 4071 tests to E10E8D9240A599F2174B1AA6AC198A29
+2024.10.27-03.00.47 [MSI-30732] 00183.752: LogAutomationController: Received RequestTestsReplyCompleteMessage from 7E2A8C9648E8C0411D5E1BA2A45B78DE
+2024.10.27-03.00.47 [MSI-30732] 00183.764: LogAutomationController: 4071 tests available on 7E2A8C9648E8C0411D5E1BA2A45B78DE
+2024.10.27-03.00.49 [MSI-30732] 00185.843: LogAutomationController: Requesting test list from 7E2A8C9648E8C0411D5E1BA2A45B78DE
+2024.10.27-03.00.49 [MSI-30732] 00185.881: LogAutomationWorker: Received RequestTestsMessage from E10E8D9240A599F2174B1AA6AC198A29
+2024.10.27-03.00.50 [MSI-30732] 00185.988: LogAutomationWorker: Set 4071 tests to E10E8D9240A599F2174B1AA6AC198A29
+2024.10.27-03.00.50 [MSI-30732] 00185.988: LogAutomationController: Received RequestTestsReplyCompleteMessage from 7E2A8C9648E8C0411D5E1BA2A45B78DE
+2024.10.27-03.00.50 [MSI-30732] 00185.997: LogAutomationController: 4071 tests available on 7E2A8C9648E8C0411D5E1BA2A45B78DE
+2024.10.27-03.02.15 [MSI-30732] 00271.175: LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+2024.10.27-03.02.15 [MSI-30732] 00271.181: LogAutomationController: Sending StartTestSession to 7E2A8C9648E8C0411D5E1BA2A45B78DE
+2024.10.27-03.02.15 [MSI-30732] 00271.182: LogAutomationController: Clearing ../../../../../../Users/diarm/AppData/Local/UnrealEngine/5.4/Saved/Automation/Logs/ and ../../../../../../Users/diarm/AppData/Local/UnrealEngine/5.4/Saved/Automation/Tmp/
+2024.10.27-03.02.15 [MSI-30732] 00271.182: AutomationTestingLog: -----Test Run 6----
+2024.10.27-03.02.15 [MSI-30732] 00271.182: LogHAL: 
+2024.10.27-03.02.15 [MSI-30732] 00271.231: LogAutomationController: Sending StopTestSession to 7E2A8C9648E8C0411D5E1BA2A45B78DE
+2024.10.27-03.02.15 [MSI-30732] 00271.232: LogAutomationWorker: Received StartTestSession from E10E8D9240A599F2174B1AA6AC198A29
+2024.10.27-03.02.15 [MSI-30732] 00271.233: LogAutomationWorker: Received StopTestSession from E10E8D9240A599F2174B1AA6AC198A29
