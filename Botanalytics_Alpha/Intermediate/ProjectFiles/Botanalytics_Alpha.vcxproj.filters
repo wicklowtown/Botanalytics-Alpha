@@ -44,17 +44,26 @@
     <ClInclude Include="..\..\Source\Botanalytics_Alpha\Botanalytics_Alpha.h">
       <Filter>Source\Botanalytics_Alpha</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\Botanalytics_Alpha\MusicCueUnitTest.cpp">
+      <Filter>Source\Botanalytics_Alpha</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Botanalytics_Alpha\MusicCueUnitTest.h">
+      <Filter>Source\Botanalytics_Alpha</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\Botanalytics_Alpha\MyClass.cpp">
       <Filter>Source\Botanalytics_Alpha</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\Botanalytics_Alpha\MyClass.h">
       <Filter>Source\Botanalytics_Alpha</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\Source\Botanalytics_Alpha\UnitTests.cpp">
-      <Filter>Source\Botanalytics_Alpha</Filter>
+    <Filter Include="Source\Botanalytics_Alpha\TESTY">
+      <UniqueIdentifier>{828D6896-E092-3FFA-9608-B5BC9FC13013}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Botanalytics_Alpha\TESTY\UnitTests.cpp">
+      <Filter>Source\Botanalytics_Alpha\TESTY</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\Source\Botanalytics_Alpha\UnitTests.h">
-      <Filter>Source\Botanalytics_Alpha</Filter>
+    <ClInclude Include="..\..\Source\Botanalytics_Alpha\TESTY\UnitTests.h">
+      <Filter>Source\Botanalytics_Alpha\TESTY</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
